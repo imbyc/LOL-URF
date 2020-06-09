@@ -17,4 +17,8 @@ LOL URL 无限火力/无限乱斗 连发助手
 
 没有连招设定,连招就是按照QWER这样固定的顺序,不支持自定义连招
 
+## 已打包好的版本
+
+在[Realease](https://github.com/buyucoder/LOL-URF/releases)中已经打包好了一个,因为没有按键精灵的会员,所以生成出来的小精灵有广告,不是我添加的广告,可以自己下载LOL_URF.Q然后倒入到按键精灵自己生成小精灵
+
 ![](https://cdn.jsdelivr.net/gh/cooldev-cn/cdn@latest/20200609123534.png)
