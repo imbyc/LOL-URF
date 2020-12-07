@@ -27,4 +27,4 @@ LOL URF 无限火力/无限乱斗 连发助手
 
 在[Realease](https://github.com/buyucoder/LOL-URF/releases)中已经打包好了一个,因为没有按键精灵的会员,所以生成出来的小精灵有广告,不是我添加的广告,可以自己下载LOL_URF.Q然后倒入到按键精灵自己生成小精灵
 
-![](https://camo.githubusercontent.com/96e1bade0d9d5b0f02648b41c5ea4f420abd5542/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f636f6f6c6465762d636e2f63646e406c61746573742f32303230303631303132313630322e706e67)
+![](https://user-images.githubusercontent.com/11970360/101374927-be873700-38e9-11eb-828b-34231e555d44.png)
